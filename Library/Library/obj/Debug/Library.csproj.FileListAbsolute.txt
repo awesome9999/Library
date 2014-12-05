@@ -1,0 +1,16 @@
+C:\Users\Jirka\Škola\SŠAK\III. ročník\PRG\Library\Library\bin\Debug\Library.exe.config
+C:\Users\Jirka\Škola\SŠAK\III. ročník\PRG\Library\Library\bin\Debug\Library.exe
+C:\Users\Jirka\Škola\SŠAK\III. ročník\PRG\Library\Library\bin\Debug\Library.pdb
+C:\Users\Jirka\Škola\SŠAK\III. ročník\PRG\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Jirka\Škola\SŠAK\III. ročník\PRG\Library\Library\obj\Debug\Library.Form1.resources
+C:\Users\Jirka\Škola\SŠAK\III. ročník\PRG\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\Jirka\Škola\SŠAK\III. ročník\PRG\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+C:\Users\Jirka\Škola\SŠAK\III. ročník\PRG\Library\Library\obj\Debug\Library.exe
+C:\Users\Jirka\Škola\SŠAK\III. ročník\PRG\Library\Library\obj\Debug\Library.pdb
+C:\Users\Jirka\Škola\SŠAK\III. ročník\PRG\Library\Library\obj\Debug\Library.Core.resources
+C:\Users\Jirka\Škola\SŠAK\III. ročník\PRG\Library\Library\obj\Debug\Library.AddBook.resources
+C:\Users\Jirka\Škola\SŠAK\III. ročník\PRG\Library\Library\obj\Debug\Library.AddUser.resources
+C:\Users\Jirka\Škola\SŠAK\III. ročník\PRG\Library\Library\obj\Debug\Library.DeleteUser.resources
+C:\Users\Jirka\Škola\SŠAK\III. ročník\PRG\Library\Library\obj\Debug\Library.DeleteBook.resources
+C:\Users\Jirka\Škola\SŠAK\III. ročník\PRG\Library\Library\obj\Debug\Library.BorrowBook.resources
+C:\Users\Jirka\Škola\SŠAK\III. ročník\PRG\Library\Library\obj\Debug\Library.Borrowed.resources
